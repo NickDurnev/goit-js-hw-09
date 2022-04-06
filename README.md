@@ -1,1 +1,2 @@
-goit-js-hw-09
+Asynchrony, date and promises.
+
